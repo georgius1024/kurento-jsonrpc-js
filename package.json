@@ -61,8 +61,8 @@
   },
   "dependencies": {
     "inherits": "^2.0.1",
-    "ws": "^1.1.1",
-    "bufferutil": "1.2.x",
+    "ws": "^6.1.2",
+    "bufferutil": "^4.0.0",
     "utf-8-validate": "5.0.1"
   },
   "devDependencies": {
